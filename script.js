@@ -1,1 +1,1 @@
-console.log("Solaray Professional Website Loaded");
+console.log("Solaray website loaded");
